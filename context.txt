@@ -1,0 +1,1 @@
+why pythn is called oop? evertyhing in pythn is an bject ()data structure data type etc
