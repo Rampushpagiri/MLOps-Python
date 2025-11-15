@@ -1,1 +1,18 @@
 why pythn is called oop? evertyhing in pythn is an bject ()data structure data type etc
+Advantages os OOps
+    > yu can create own datatype
+    > code reusability
+    >debugging
+    >easy t colab
+
+end t0 end pr0ject (chatb0t class)
+    >functi0n vs meth0d
+    >magic meth0d 0r dunder meth0d
+    >self
+    > y0u can create attr 0utside class aswell
+    
+    >encapuslati0n
+    >getter and setter
+    > static meth0d
+    >inheritance
+

@@ -1,10 +1,25 @@
 class chatbot:
+
+    __user_id = 0
     def __init__(self):
+        self.id = chatbot.__user_id
+        chatbot.__user_id += 1
+        self.__name = "default user"
         self.username = ''
         self.pwd = ''
         self.lgdin = False
-        self.menu()
+        #self.menu()
+    @staticmethod
+    def get_id():
+        return chatbot.__user_id
+    @staticmethod
+    def set_id(value):
+        chatbot.__user_id = value
 
+    def get_name(self):
+        return self.__name
+    def set_name(self, value):
+        self.__name = value
     def menu(self):
         user_input = input("""Welcme t chatbt !! hw wld like t prceed?
                             1. press 1 t signup
