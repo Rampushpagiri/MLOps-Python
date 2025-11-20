@@ -24,5 +24,6 @@ inheritance
         1.Single inheritance
         2.multilevel
         3.hierarchical inheritance
-        4.multiple 
+        4.multiple inheritance
+        5.hybrid inheritance
 
