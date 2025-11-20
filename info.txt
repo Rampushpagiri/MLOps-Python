@@ -13,6 +13,16 @@ end t0 end pr0ject (chatb0t class)
     
     >encapuslati0n
     >getter and setter
-    > static meth0d
-    >inheritance
+    >static meth0d
+inheritance
+    > inheritance cde example
+    > why inheritance is needed? parent has n access t0 child class
+    > what gets inherited?-c0nstrict0r n0n private attributes, n0n pricate meth0ds
+    > c0nstrict0r 0verl0ading & methd 0verlading
+    > super keyw0rd (can be used 0nly inside child class.Can n0t access attributs variables)
+    > types 0f inheritance 
+        1.Single inheritance
+        2.multilevel
+        3.hierarchical inheritance
+        4.multiple 
 
